@@ -6,4 +6,4 @@ TheFactoryMustGrow is a game in which you build and expand your factory with rea
 this thing is not actually runnable, because you need my custom module that I have lost the code of
 ![pepe thumb up](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FvOjhKXwKiYYAAAAC%2Fpepe-thumbs-up.gif&f=1&nofb=1&ipt=3797d1324ffedd371a83fbfab0b06d303f5fbf4512a226e18d6f6e5b9fc18e7e)
 
-but you can download the executable on the [itch.io page](https://gigores.itch.io/the-factory-must-grow)
+but you can download the executable on the [itch.io page](https://gigores.itch.io/the-factory-must-grow), and the latest public preview on [google drive](https://drive.google.com/file/d/100c23ekOkfTTaOQsOquMYvyT10pI-y0D/view?usp=sharing)
