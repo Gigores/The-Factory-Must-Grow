@@ -1,6 +1,8 @@
 # TheFactoryMustGrow
 TheFactoryMustGrow is a game in which you build and expand your factory with realistic metallurgy and chemistry.
 
+Big thanks to teho_ and Frrrkstr for contribution.
+
 ![preview image](https://img.itch.zone/aW1hZ2UvMjQ3MTk0Mi8xNTQ5OTA1MC5wbmc=/original/rDQLA9.png)
 
 this thing is not actually runnable, because you need my custom module that I have lost the code of
