@@ -1,0 +1,19 @@
+{
+    "0": {"name": "grass", "walk_speed": 1.0, "walkable": true},
+    "1": {"name": "grass_with_flowers", "walk_speed": 1.0, "walkable": true},
+    "2": {"name": "mountain", "walk_speed": 1.0, "walkable": true},
+    "3": {"name": "sand", "walk_speed": 0.8, "walkable": true},
+    "4": {"name": "water", "walk_speed": 1.0, "walkable": false},
+    "5": {"name": "high_water", "walk_speed": 0.5, "walkable": true},
+    "6": {"name": "stone_covering", "walk_speed": 1.2, "walkable": true},
+    "7": {"name": "gravel", "walk_speed": 1.2, "walkable": true},
+    "8": {"name": "wooden_covering", "walk_speed": 1.2, "walkable": true},
+    "9": {"name": "farmland", "walk_speed": 0.7, "walkable": true},
+    "10": {"texture_path": "addons/core/assets/tiles/wooden_covering.png", "name": "bridge", "walk_speed": 1.2, "walkable": true},
+    "11": {"name": "iron_ore", "walk_speed": 0.8, "walkable": true, "minimap_color": "#bf9b88"},
+    "12": {"name": "copper_ore", "walk_speed": 0.8, "walkable": true, "minimap_color": "#d48453"},
+    "13": {"name": "zinc_ore", "walk_speed": 0.8, "walkable": true, "minimap_color": "#adc47e"},
+    "14": {"name": "coal", "walk_speed": 0.8, "walkable": true, "minimap_color": "#161616"},
+    "15": {"name": "stone", "walk_speed": 0.8, "walkable": true, "minimap_color": "#595959"},
+    "16": {"name": "clay", "walk_speed": 0.8, "walkable": true, "minimap_color": "#a87255"}
+}

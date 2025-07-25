@@ -1,0 +1,116 @@
+{
+  "recipes": [
+    {
+      "id": "copper_ingot",
+      "ingredient_tag": "core/copper",
+      "mold": "core/ingot_mold",
+      "result": "core/copper_ingot",
+      "weight": 100
+    },
+    {
+      "id": "copper_cog",
+      "ingredient_tag": "core/copper",
+      "mold": "core/cog_mold",
+      "result": "core/copper_cog",
+      "weight": 100
+    },
+    {
+      "id": "copper_axe_head",
+      "ingredient_tag": "core/copper",
+      "mold": "core/axe_head_mold",
+      "result": "core/copper_axe_head",
+      "weight": 100
+    },
+    {
+      "id": "copper_pick_head",
+      "ingredient_tag": "core/copper",
+      "mold": "core/pick_head_mold",
+      "result": "core/copper_pick_head",
+      "weight": 100
+    },
+    {
+      "id": "iron_ingot",
+      "ingredient_tag": "core/iron",
+      "mold": "core/ingot_mold",
+      "result": "core/iron_ingot",
+      "weight": 300
+    },
+    {
+      "id": "iron_pick_head",
+      "ingredient_tag": "core/iron",
+      "mold": "core/pick_head_mold",
+      "result": "core/iron_pick_head",
+      "weight": 300
+    },
+    {
+      "id": "iron_axe_head",
+      "ingredient_tag": "core/iron",
+      "mold": "core/axe_head_mold",
+      "result": "core/iron_axe_head",
+      "weight": 300
+    },
+    {
+      "id": "iron_shovel_head",
+      "ingredient_tag": "core/iron",
+      "mold": "core/shovel_head_mold",
+      "result": "core/iron_shovel_head",
+      "weight": 300
+    },
+    {
+      "id": "iron_hoe_head",
+      "ingredient_tag": "core/iron",
+      "mold": "core/hoe_head_mold",
+      "result": "core/iron_hoe_head",
+      "weight": 300
+    },
+    {
+      "id": "brass_ingot",
+      "ingredient_tag": "core/brass",
+      "mold": "core/ingot_mold",
+      "result": "core/brass_ingot",
+      "weight": 100
+    },
+    {
+      "id": "brass_cog",
+      "ingredient_tag": "core/brass",
+      "mold": "core/cog_mold",
+      "result": "core/brass_cog",
+      "weight": 100
+    },
+    {
+      "id": "cast_iron_ingot",
+      "ingredient_tag": "core/cast_iron",
+      "mold": "core/ingot_mold",
+      "result": "core/cast_iron_ingot",
+      "weight": 100
+    },
+    {
+      "id": "zinc_ingot",
+      "ingredient_tag": "core/zinc",
+      "mold": "core/ingot_mold",
+      "result": "core/zinc_ingot",
+      "weight": 100
+    },
+    {
+      "id": "gold_mold",
+      "ingredient_tag": "core/gold",
+      "mold": "core/ingot_mold",
+      "result": "core/gold_ingot",
+      "weight": 300
+    },
+    {
+      "id": "germaniun_ingot",
+      "ingredient_tag": "core/germanium",
+      "mold": "core/ingot_mold",
+      "result": "core/germanium_ingot",
+      "weight": 100
+    },
+    {
+      "id": "glass_block",
+      "ingredient_tag": "core/sand",
+      "mold": "core/ingot_mold",
+      "result": "core/glass_block",
+      "weight": 100
+    }
+  ]
+}

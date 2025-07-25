@@ -1,0 +1,12 @@
+{
+  "items": [
+    ["core/copper_axe", 1],
+    ["core/copper_pickaxe", 1],
+    ["core/pick_head_mold", 1],
+    ["core/axe_head_mold", 1],
+    ["core/hoe_head_mold", 1],
+    ["core/shovel_head_mold", 1],
+    ["core/cog_mold", 1],
+    ["core/ingot_mold", 1]
+  ]
+}

@@ -1,0 +1,13 @@
+Code by <col hex="F1C40F">Gigores<col>.
+Most art by <col hex="2ECC71">Teho<col>.
+Some art by <col hex="E91E63">Sai-Tess<col>.
+Music by <col hex="2ECC71">SunoAI<col>.
+SFX by <col hex="2ECC71">frrrkstr<col>.
+Font: PixelType by <col hex="E91E63">TheJman0205<col>.
+Logo font: Upheaval by <col hex="E91E63">Ænigma<col>.
+Terminal font: Komodore by <col hex="E91E63">Nina David<col>.
+
+Gametesters:
+<col hex="E91E63">    Sai-Tess<col>,
+<col hex="E91E63">    DogsFox<col>,
+<col hex="E91E63">    Alsatamor<col>.

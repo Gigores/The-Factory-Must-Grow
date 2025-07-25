@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "name": "First Seeds",
+      "description": "Harvest your first seeds and begin the path to sustainable growth.",
+      "icon_item": "core/carrot_seeds",
+      "request": ["geto", ["core/carrot_seeds", "core/tomato_seeds", "core/wheat_seeds", "core/bamboo_seeds"]],
+      "parent": 16,
+      "arrow_type": true,
+      "pos": [-4, 7],
+      "size": [1, 1]
+    },
+    {
+      "name": "First Harvest",
+      "description": "Collect your first batch of food and secure the basics for survival.",
+      "icon_item": "core/wheat",
+      "request": ["geto", ["core/wheat", "core/bamboo", "core/tomato", "core/carrot"]],
+      "parent": 14,
+      "arrow_type": false,
+      "pos": [-6, 9.5],
+      "size": [1, 1]
+    },
+    {
+      "name": "First Berries",
+      "description": "Gather your first berries, the initial step towards self-sufficiency.",
+      "icon_item": "core/berries",
+      "request": ["get", "core/berries"],
+      "parent": 9,
+      "arrow_type": false,
+      "pos": [0, 5],
+      "size": [1, 1]
+    },
+    {
+      "name": "Bread Maker",
+      "description": "Bake your first loaf of bread and taste the fruits of your labor.",
+      "icon_item": "core/bread",
+      "request": ["get", "core/bread"],
+      "parent": 15,
+      "arrow_type": true,
+      "pos": [-2, 11],
+      "size": [1, 1]
+    }
+  ]
+}

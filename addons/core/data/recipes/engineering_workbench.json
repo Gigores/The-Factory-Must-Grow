@@ -1,0 +1,37 @@
+{
+  "recipes": [
+    {
+      "id": "chemical_reactor",
+      "ingredients": [
+        ["core/electrical_casing", 2],
+        ["core/fluid_tank", 2],
+        ["core/pipe", 2]
+      ],
+      "result": ["core/chemical_reactor", 1],
+      "category": "structs",
+      "subcategory": 0
+    },
+    {
+      "id": "fluid_tank",
+      "ingredients": [
+        ["core/cast_iron_ingot", 2],
+        ["core/iron_plate", 6],
+        ["core/pipe", 2]
+      ],
+      "result": ["core/fluid_tank", 1],
+      "category": "structs",
+      "subcategory": 5
+    },
+    {
+      "id": "smokestack",
+      "ingredients": [
+        ["core/fluid_tank", 1],
+        ["core/brick", 1],
+        ["core/iron_plate", 2]
+      ],
+      "result": ["core/smokestack", 1],
+      "category": "test",
+      "subcategory": 5
+    }
+  ]
+}

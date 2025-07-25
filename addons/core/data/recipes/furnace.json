@@ -1,0 +1,100 @@
+{
+  "recipes": [
+    {
+        "id": "copper_ingot_from_crushed_copper",
+        "ingredient": ["core/raw_copper", 1],
+        "result": ["core/copper_ingot", 1],
+        "weight": 100
+    },
+    {
+        "id": "copper_ingot_from_raw_copper",
+        "ingredient": ["core/crushed_copper", 1],
+        "result": ["core/copper_ingot", 1],
+        "weight": 100
+    },
+    {
+        "id": "brick_from_clay",
+        "ingredient": ["core/clay", 1],
+        "result": ["core/brick", 1],
+        "weight": 100
+    },
+    {
+        "id": "brick_from_crushed_clay",
+        "ingredient": ["core/crushed_clay", 1],
+        "result": ["core/brick", 1],
+        "weight": 100
+    },
+    {
+        "id": "zinc_ingot_from_raw_zinc",
+        "ingredient": ["core/raw_zinc", 1],
+        "result": ["core/zinc_ingot", 1],
+        "weight": 100
+    },
+    {
+        "id": "zinc_ingot_from_crushed_zinc",
+        "ingredient": ["core/crushed_zinc", 1],
+        "result": ["core/zinc_ingot", 1],
+        "weight": 100
+    },
+    {
+        "id": "iron_ingot_from_raw_iron",
+        "ingredient": ["core/raw_iron", 1],
+        "result": ["core/iron_ingot", 1],
+        "weight": 300
+    },
+    {
+        "id": "iron_ingor_from_crushed_iron",
+        "ingredient": ["core/crushed_iron", 1],
+        "result": ["core/iron_ingot", 1],
+        "weight": 100
+    },
+    {
+        "id": "brass_ingot_from_crushed_brass",
+        "ingredient": ["core/crushed_brass", 1],
+        "result": ["core/brass_ingot", 1],
+        "weight": 100
+    },
+    {
+        "id": "zinc_ingor_from_crushed_refined_raw_zinc",
+        "ingredient": ["core/crushed_refined_raw_zinc", 1],
+        "result": ["core/zinc_ingot", 1],
+        "weight": 100
+    },
+    {
+        "id": "iron_ingot_from_crushed_refined_raw_iron",
+        "ingredient": ["core/crushed_refined_raw_iron", 1],
+        "result": ["core/iron_ingot", 1],
+        "weight": 300
+    },
+    {
+        "id": "copper_ingot_from_crushed_refined_raw_copper",
+        "ingredient": ["core/crushed_refined_raw_copper", 1],
+        "result": ["core/copper_ingot", 1],
+        "weight": 100
+    },
+    {
+        "id": "gold_ingot_from_crushed_refined_raw_gold",
+        "ingredient": ["core/crushed_refined_raw_gold", 1],
+        "result": ["core/gold_ingot", 1],
+        "weight": 300
+    },
+    {
+        "id": "stone_brick",
+        "ingredient": ["core/stone", 1],
+        "result": ["core/stone_brick", 1],
+        "weight": 100
+    },
+    {
+        "id": "bread",
+        "ingredient": ["core/dough", 1],
+        "result": ["core/bread", 1],
+        "weight": 100
+    },
+    {
+      "id": "glass_block",
+      "ingredient": ["core/sand", 1],
+      "result": ["core/glass_block", 1],
+      "weight": 100
+    }
+  ]
+}

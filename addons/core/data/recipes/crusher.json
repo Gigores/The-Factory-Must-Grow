@@ -1,0 +1,81 @@
+{
+  "recipes": [
+    {
+        "id": "copper",
+        "ingredient": ["core/copper_ingot", 1],
+        "result": ["core/crushed_copper", 1],
+        "time": 60,
+        "particle_type": "copper"
+    },
+    {
+        "id": "iron",
+        "ingredient": ["core/iron_ingot", 1],
+        "result": ["core/crushed_iron", 1],
+        "time": 60,
+        "particle_type": "iron"
+    },
+    {
+        "id": "zinc",
+        "ingredient": ["core/zinc_ingot", 1],
+        "result": ["core/crushed_zinc", 1],
+        "time": 60,
+        "particle_type": "zinc"
+    },
+    {
+        "id": "brass",
+        "ingredient": ["core/brass_ingot", 1],
+        "result": ["core/crushed_brass", 1],
+        "time": 60,
+        "particle_type": "brass"
+    },
+    {
+        "id": "raw_copper",
+        "ingredient": ["core/raw_copper", 1],
+        "result": ["core/crushed_raw_copper", 2],
+        "time": 90,
+        "particle_type": "copper"
+    },
+    {
+        "id": "raw_iron",
+        "ingredient": ["core/raw_iron", 1],
+        "result": ["core/crushed_raw_iron", 2],
+        "time": 90,
+        "particle_type": "iron"
+    },
+    {
+        "id": "raw_zinc",
+        "ingredient": ["core/raw_zinc", 1],
+        "result": ["core/crushed_raw_zinc", 2],
+        "time": 90,
+        "particle_type": "zinc"
+    },
+    {
+        "id": "clay",
+        "ingredient": ["core/clay", 1],
+        "result": ["core/crushed_raw_gold", 1],
+        "time": 90,
+        "particle_type": "zinc"
+    },
+    {
+        "id": "rock",
+        "ingredient": ["core/stone", 1],
+        "result": ["core/crushed_rock", 2],
+        "time": 60,
+        "particle_type": "iron"
+    },
+    {
+        "id": "flour",
+        "ingredient": ["core/wheat", 1],
+        "result": ["core/flour", 1],
+        "time": 60,
+        "particle_type": "wheat"
+    },
+    {
+        "id": "sugar",
+        "ingredient": ["core/bamboo", 1],
+        "result": ["core/sugar", 1],
+        "time": 60,
+        "particle_type": "bamboo"
+    }
+  ]
+}

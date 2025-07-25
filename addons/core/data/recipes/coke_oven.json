@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+        "id": "jicvsjmxdofikhbjxfpovbjnxdpiufhbdfgjnhjndfgipuhjn",
+        "ingredient": ["core/coal", 1],
+        "result": ["core/coking_coal", 1],
+        "time": 1000
+    }
+  ]
+}

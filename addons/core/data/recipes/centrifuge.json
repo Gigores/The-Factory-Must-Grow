@@ -1,0 +1,32 @@
+{
+  "recipes": [
+    {
+        "id": "processing_copper",
+        "ingredient": ["core/crushed_raw_copper", 1],
+        "result1": ["core/crushed_refined_raw_copper", 1],
+        "result2": ["core/crushed_rock", 1],
+        "time": 80
+    },
+    {
+        "id": "processing_zinc",
+        "ingredient": ["core/crushed_raw_zinc", 1],
+        "result1": ["core/crushed_refined_raw_zinc", 1],
+        "result2": ["core/crushed_rock", 1],
+        "time": 80
+    },
+    {
+        "id": "processing_iron",
+        "ingredient": ["core/crushed_raw_iron", 1],
+        "result1": ["core/crushed_refined_raw_iron", 1],
+        "result2": ["core/crushed_rock", 1],
+        "time": 80
+    },
+    {
+        "id": "processing_gold",
+        "ingredient": ["core/crushed_raw_gold", 1],
+        "result1": ["core/crushed_refined_raw_gold", 1],
+        "result2": ["core/crushed_clay", 1],
+        "time": 80
+    }
+  ]
+}

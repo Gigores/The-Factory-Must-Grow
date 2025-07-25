@@ -1,0 +1,18 @@
+Editing Programs:
+
+When writing program, you need to enter
+Line number in the begining:
+    10 get_item apple 2
+if this line doesn't exist it will be
+added in current program. But if
+this line already exist it will be
+changed to new one you just typed.
+To see the current program type "list".
+To run the current program type "run".
+
+Saving and loading Programs:
+
+To save yor program use "save <file_name>".
+To load program use "load <file_name>".
+To see all saved programs use
+"list files".

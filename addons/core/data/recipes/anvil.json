@@ -1,0 +1,59 @@
+{
+  "recipes": [
+    {
+        "id": "iron_plate",
+        "ingredient": ["core/iron_ingot", 1],
+        "result": ["core/iron_plate", 1]
+    },
+    {
+        "id": "copper_plate",
+        "ingredient": ["core/copper_ingot", 1],
+        "result": ["core/copper_plate", 1]
+    },
+    {
+        "id": "brass_plate",
+        "ingredient": ["core/brass_ingot", 1],
+        "result": ["core/brass_plate", 1]
+    },
+    {
+        "id": "cast_iron_plate1",
+        "ingredient": ["core/cast_iron_ingot", 1],
+        "result": ["core/cast_iron_plate1", 1]
+    },
+    {
+        "id": "cast_iron_plate2",
+        "ingredient": ["core/cast_iron_plate1", 1],
+        "result": ["core/cast_iron_plate2", 1]
+    },
+    {
+        "id": "cast_iron_plate3",
+        "ingredient": ["core/cast_iron_plate2", 1],
+        "result": ["core/cast_iron_plate3", 1]
+    },
+    {
+        "id": "cast_iron_plate",
+        "ingredient": ["core/cast_iron_plate3", 1],
+        "result": ["core/cast_iron_plate", 1]
+    },
+    {
+        "id": "gold_plate",
+        "ingredient": ["core/gold_ingot", 1],
+        "result": ["core/gold_plate", 1]
+    },
+    {
+        "id": "silicon_plate",
+        "ingredient": ["core/silicon", 1],
+        "result": ["core/silicon_plate", 1]
+    },
+    {
+        "id": "copper_wire",
+        "ingredient": ["core/copper_plate", 1],
+        "result": ["core/copper_wire", 1]
+    },
+    {
+        "id": "gold_wire",
+        "ingredient": ["core/gold_plate", 1],
+        "result": ["core/gold_wire", 1]
+    }
+  ]
+}

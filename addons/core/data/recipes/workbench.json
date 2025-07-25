@@ -1,0 +1,73 @@
+{
+  "recipes": [
+    { "ingredient1": ["core/copper_axe_head", 1], "ingredient2": ["core/stick", 1], "result": ["core/copper_axe", 1], "category": "tools", "subcategory": 0, "id": "copper_axe" },
+    { "ingredient1": ["core/copper_pick_head", 1], "ingredient2": ["core/stick", 1], "result": ["core/copper_pickaxe", 1], "category": "tools", "subcategory": 0, "id": "copper_pickaxe" },
+    { "ingredient1": ["core/iron_axe_head", 1], "ingredient2": ["core/stick", 1], "result": ["core/iron_axe", 1], "category": "tools", "subcategory": 0, "id": "iron_axe" },
+    { "ingredient1": ["core/iron_pick_head", 1], "ingredient2": ["core/stick", 1], "result": ["core/iron_pickaxe", 1], "category": "tools", "subcategory": 0, "id": "iron_pickaxe" },
+    { "ingredient1": ["core/iron_shovel_head", 1], "ingredient2": ["core/stick", 1], "result": ["core/shovel", 1], "category": "tools", "subcategory": 0, "id": "shovel" },
+    { "ingredient1": ["core/iron_hoe_head", 1], "ingredient2": ["core/stick", 1], "result": ["core/hoe", 1], "category": "tools", "subcategory": 0, "id": "hoe" },
+
+    { "ingredient1": ["core/machine_casing", 1], "ingredient2": ["core/brass_ingot", 2], "result": ["core/chainsaw", 1], "category": "tools", "subcategory": 1, "id": "chainsaw" },
+    { "ingredient1": ["core/machine_casing", 1], "ingredient2": ["core/drill_attachment", 1], "result": ["core/hand_drill", 1], "category": "tools", "subcategory": 1, "id": "hand_drill" },
+    { "ingredient1": ["core/mechanical_casing", 1], "ingredient2": ["core/cast_iron_ingot", 2], "result": ["core/chainsaw_2", 1], "category": "tools", "subcategory": 1, "id": "chainsaw_2" },
+    { "ingredient1": ["core/mechanical_casing", 1], "ingredient2": ["core/drill_attachment_2", 1], "result": ["core/hand_drill_2", 1], "category": "tools", "subcategory": 1, "id": "hand_drill_2" },
+
+    { "ingredient1": ["core/iron_plate", 1], "ingredient2": ["core/log", 1], "result": ["core/bucket", 1], "category": "tools", "subcategory": 2, "id": "bucket" },
+
+
+    { "ingredient1": ["core/crushed_copper", 3], "ingredient2": ["core/crushed_zinc", 2], "result": ["core/crushed_brass", 5], "category": "parts", "subcategory": 0, "id": "crushed_brass" },
+    { "ingredient1": ["core/t1chip", 1], "ingredient2": ["core/iron_plate", 4], "result": ["core/machine_casing", 1], "category": "parts", "subcategory": 0, "id": "machine_casing" },
+    { "ingredient1": ["core/machine_casing", 1], "ingredient2": ["core/brass_cog", 2], "result": ["core/mechanical_casing", 1], "category": "parts", "subcategory": 0, "id": "mechanical_casing" },
+    { "ingredient1": ["core/machine_casing", 1], "ingredient2": ["core/wire_connector", 2], "result": ["core/electrical_casing", 1], "category": "parts", "subcategory": 0, "id": "electrical_casing" },
+    { "ingredient1": ["core/iron_plate", 1], "ingredient2": ["core/iron_plate", 1], "result": ["core/pipe", 1], "category": "parts", "subcategory": 0, "id": "pipe" },
+    { "ingredient1": ["core/brass_plate", 1], "ingredient2": ["core/iron_plate", 2], "result": ["core/drill_attachment", 1], "category": "parts", "subcategory": 0, "id": "drill_attachment" },
+    { "ingredient1": ["core/cast_iron_plate", 2], "ingredient2": ["core/iron_plate", 2], "result": ["core/drill_attachment_2", 1], "category": "parts", "subcategory": 0, "id": "drill_attachmen2" },
+    { "ingredient1": ["core/plank", 2], "ingredient2": ["core/plank", 2], "result": ["core/wooden_platform", 1], "category": "parts", "subcategory": 0, "id": "wooden_platform" },
+
+    { "ingredient1": ["core/copper_wire", 5], "ingredient2": ["core/iron_plate", 1], "result": ["core/t1chip", 1], "category": "parts", "subcategory": 1, "id": "t1chip" },
+    { "ingredient1": ["core/gold_wire", 5], "ingredient2": ["core/silicon_plate", 1], "result": ["core/t2chip", 1], "category": "parts", "subcategory": 1, "id": "t2chip" },
+
+    { "ingredient1": ["core/glass_block", 1], "ingredient2": ["core/copper_ingot", 1], "result": ["core/wire_connector", 1], "category": "parts", "subcategory": 2, "id": "wire_connector" },
+
+    { "ingredient1": ["core/brick", 2], "ingredient2": ["core/wooden_platform", 1], "result": ["core/blank_mold", 1], "category": "parts", "subcategory": 3, "id": "blank_mold" },
+    { "ingredient1": ["core/blank_mold", 1], "ingredient2": ["core/iron_pickaxe", 1], "result": ["core/pick_head_mold", 1], "category": "parts", "subcategory": 3, "id": "pick_head_mold" },
+    { "ingredient1": ["core/blank_mold", 1], "ingredient2": ["core/iron_axe", 1], "result": ["core/axe_head_mold", 1], "category": "parts", "subcategory": 3, "id": "axe_head_mold" },
+    { "ingredient1": ["core/blank_mold", 1], "ingredient2": ["core/shovel", 1], "result": ["core/shovel_head_mold", 1], "category": "parts", "subcategory": 3, "id": "shovel_head_mold" },
+    { "ingredient1": ["core/blank_mold", 1], "ingredient2": ["core/hoe", 1], "result": ["core/hoe_head_mold", 1], "category": "parts", "subcategory": 3, "id": "hoe_head_mold" },
+    { "ingredient1": ["core/blank_mold", 1], "ingredient2": ["core/copper_cog", 1], "result": ["core/cog_mold", 1], "category": "parts", "subcategory": 3, "id": "cog_mold" },
+    { "ingredient1": ["core/blank_mold", 1], "ingredient2": ["core/copper_ingot", 1], "result": ["core/ingot_mold", 1], "category": "parts", "subcategory": 3, "id": "ingot_mold" },
+
+
+    { "ingredient1": ["core/log", 4], "ingredient2": ["core/log", 4], "result": ["core/workbench", 1], "category": "structs", "subcategory": 0, "id": "workbench" },
+    { "ingredient1": ["core/iron_ingot", 5], "ingredient2": ["core/iron_ingot", 5], "result": ["core/anvil", 1], "category": "structs", "subcategory": 0, "id": "anvil" },
+    { "ingredient1": ["core/iron_plate", 2], "ingredient2": ["core/log", 4], "result": ["core/woodworking_machine", 1], "category": "structs", "subcategory": 0, "id": "woodworking_machine" },
+    { "ingredient1": ["core/machine_casing", 1], "ingredient2": ["core/copper_cog", 2], "result": ["core/crusher", 1], "category": "structs", "subcategory": 0, "id": "crusher" },
+    { "ingredient1": ["core/machine_casing", 1], "ingredient2": ["core/brass_cog", 4], "result": ["core/magnetic_centrifuge", 1], "category": "structs", "subcategory": 0, "id": "magnetic_centrifuge" },
+
+    { "ingredient1": ["core/stone", 5], "ingredient2": ["core/stone", 5], "result": ["core/furnace", 1], "category": "structs", "subcategory": 1, "id": "furnace" },
+    { "ingredient1": ["core/stone_brick", 5], "ingredient2": ["core/brick", 5], "result": ["core/foundry", 1], "category": "structs", "subcategory": 1, "id": "foundry" },
+    { "ingredient1": ["core/machine_casing", 1], "ingredient2": ["core/brick", 20], "result": ["core/blast_furnace", 1], "category": "structs", "subcategory": 1, "id": "blast_furnace" },
+    { "ingredient1": ["core/stone_brick", 8], "ingredient2": ["core/furnace", 1], "result": ["core/coke_oven", 1], "category": "structs", "subcategory": 1, "id": "coke_oven" },
+
+    { "ingredient1": ["core/log", 2], "ingredient2": ["core/log", 4], "result": ["core/wooden_chest", 1], "category": "structs", "subcategory": 2, "id": "wooden_chest" },
+    { "ingredient1": ["core/stone", 2], "ingredient2": ["core/iron_plate", 4], "result": ["core/iron_chest", 1], "category": "structs", "subcategory": 2, "id": "iron_chest" },
+    { "ingredient1": ["core/log", 4], "ingredient2": ["core/plank", 8], "result": ["core/container", 1], "category": "structs", "subcategory": 2, "id": "container" },
+    { "ingredient1": ["core/log", 8], "ingredient2": ["core/plank", 16], "result": ["core/big_container", 1], "category": "structs", "subcategory": 2, "id": "big_container" },
+
+    { "ingredient1": ["core/mechanical_casing", 1], "ingredient2": ["core/drill_attachment", 1], "result": ["core/mechanical_drill", 1], "category": "structs", "subcategory": 3, "id": "mechanical_drill" },
+
+    { "ingredient1": ["core/wire_connector", 3], "ingredient2": ["core/log", 4], "result": ["core/electric_pole", 3], "category": "structs", "subcategory": 4, "id": "electric_pole" },
+    { "ingredient1": ["core/electrical_casing", 1], "ingredient2": ["core/furnace", 1], "result": ["core/solid_fuel_generator", 1], "category": "structs", "subcategory": 4, "id": "solid_fuel_generator" },
+
+
+    { "ingredient1": ["core/plank", 8], "ingredient2": ["core/stone", 2], "result": ["core/wooden_wall", 4], "category": "decor", "subcategory": 0, "id": "wooden_wall" },
+    { "ingredient1": ["core/stone_brick", 4], "ingredient2": ["core/stone", 2], "result": ["core/stone_wall", 4], "category": "decor", "subcategory": 0, "id": "stone_wall" },
+    { "ingredient1": ["core/brick", 4], "ingredient2": ["core/stone", 2], "result": ["core/brick_wall", 4], "category": "decor", "subcategory": 0, "id": "brick_wall" },
+
+    { "ingredient1": ["core/grass", 2], "ingredient2": ["core/brick", 2], "result": ["core/pot", 1], "category": "decor", "subcategory": 1, "id": "pos" },
+    { "ingredient1": ["core/log", 4], "ingredient2": ["core/wooden_platform", 1], "result": ["core/table", 1], "category": "decor", "subcategory": 1, "id": "table" },
+    { "ingredient1": ["core/plank", 4], "ingredient2": ["core/wooden_platform", 1], "result": ["core/stool", 1], "category": "decor", "subcategory": 1, "id": "stool" },
+    { "ingredient1": ["core/stone", 4], "ingredient2": ["core/wooden_platform", 2], "result": ["core/bed", 1], "category": "decor", "subcategory": 1, "id": "bed" },
+    { "ingredient1": ["core/wooden_chest", 1], "ingredient2": ["core/plank", 4], "result": ["core/bedside_table", 1], "category": "decor", "subcategory": 1, "id": "bedside_table" }
+  ]
+}

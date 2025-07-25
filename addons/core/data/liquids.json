@@ -1,0 +1,10 @@
+{
+  "water": {"name": "Water", "color": "#5252c6", "bucket": "water_bucket", "gas": false, "tooltip": "<col hex='d6d078'>H₂O"},
+  "sulfuric_acid": {"name": "Sulfuric Acid", "color": "#66FF66", "bucket": "sulfuric_acid_bucket", "gas": false, "tooltip": "<col hex='d6d078'>H₂SO₄<nl><item name='emoji_skull'> <col hex='ff3838'>Toxic"},
+
+  "sulfur_dioxide": {"name": "Sulfur Dioxide", "color": "#F5DEB3", "bucket": "sulfur_dioxide_bucket", "gas": true, "tooltip": "<col hex='d6d078'>SO₂<nl><item name='emoji_skull'> <col hex='ff3838'>Toxic"},
+  "sulfur_trioxide": {"name": "Sulfur Trioxide", "color": "#FFFFFF", "bucket": "sulfur_trioxide_bucket", "gas": true, "tooltip": "<col hex='d6d078'>SO₃<nl><item name='emoji_skull'> <col hex='ff3838'>Toxic"},
+  "carbon_monoxide": {"name": "Carbon Monoxide", "color": "#474747", "bucket": "carbon_monoxide_bucket", "gas": true, "tooltip": "<col hex='d6d078'>CO<nl><item name='emoji_skull'> <col hex='ff3838'>Toxic"},
+  "carbon_dioxide": {"name": "Carbon Dioxide", "color": "#808080", "bucket": "carbon_dioxide_bucket", "gas": true, "tooltip": "<col hex='d6d078'>CO₂<nl><item name='emoji_skull'> <col hex='ff3838'>Toxic"},
+  "oxygen": {"name": "Oxygen", "color": "#87CEEB", "bucket": "oxygen_bucket", "gas": true, "tooltip": "<col hex='d6d078'>O₂"}
+}

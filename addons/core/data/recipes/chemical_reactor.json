@@ -1,0 +1,173 @@
+{
+  "recipes": [
+    {
+      "id": "oxidation_of_pyrite",
+      "input_liquids": [
+        ["core/oxygen", 11]
+      ],
+      "input_items": [
+        ["core/raw_iron", 4]
+      ],
+      "time": 300,
+      "output_liquids": [
+        ["core/sulfur_dioxide", 8]
+      ],
+      "output_items": [
+        ["core/ferric_oxide", 2]
+      ],
+      "formula": "4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂",
+      "color": "#FFA07A",
+      "icon_item": "core/raw_iron",
+      "name": "Oxidation of pyrite"
+    },
+    {
+      "id": "oxidation_of_chalcocite",
+      "input_liquids": [
+        ["core/oxygen", 2]
+      ],
+      "input_items": [
+        ["core/raw_copper", 1]
+      ],
+      "time": 300,
+      "output_liquids": [
+        ["core/sulfur_dioxide", 1]
+      ],
+      "output_items": [
+        ["core/copper_oxide", 2]
+      ],
+      "formula": "Cu₂S + 2O₂ → 2CuO + SO₂",
+      "color": "#FFA07A",
+      "icon_item": "core/raw_copper",
+      "name": "Oxidation of chalcocite"
+    },
+    {
+      "id": "oxidation_of_sphalerite",
+      "input_liquids": [
+        ["core/oxygen", 3]
+      ],
+      "input_items": [
+        ["core/raw_zinc", 2]
+      ],
+      "time": 300,
+      "output_liquids": [
+        ["core/sulfur_dioxide", 2]
+      ],
+      "output_items": [
+        ["core/zinc_oxide", 2]
+      ],
+      "formula": "2ZnS + 3O₂ → 2ZnO + 2SO₂",
+      "color": "#FFA07A",
+      "icon_item": "core/raw_zinc",
+      "name": "Oxidation of sphalerite"
+    },
+    {
+      "id": "iron_oxide_reduction",
+      "input_liquids": [],
+      "input_items": [
+        ["core/ferric_oxide", 1],
+        ["core/coal", 3]
+      ],
+      "time": 300,
+      "output_liquids": [
+        ["core/carbon_dioxide", 3]
+      ],
+      "output_items": [
+        ["core/crushed_iron", 2]
+      ],
+      "formula": "Fe₂O₃ + 3C → 2Fe + 3CO₂",
+      "color": "#8B0000",
+      "icon_item": "core/crushed_iron",
+      "name": "Iron oxide reduction"
+    },
+    {
+      "id": "copper_oxide_reduction",
+      "input_liquids": [],
+      "input_items": [
+        ["core/copper_oxide", 1],
+        ["core/coal", 1]
+      ],
+      "time": 300,
+      "output_liquids": [
+        ["core/carbon_dioxide", 1]
+      ],
+      "output_items": [
+        ["core/crushed_copper", 1]
+      ],
+      "formula": "CuO + C → Cu + CO₂",
+      "color": "#8B0000",
+      "icon_item": "core/crushed_copper",
+      "name": "Copper oxide reduction"
+    },
+    {
+      "id": "zinc_oxide_reduction",
+      "input_liquids": [],
+      "input_items": [
+        ["core/zinc_oxide", 1],
+        ["core/coal", 1]
+      ],
+      "time": 300,
+      "output_liquids": [
+        ["core/carbon_dioxide", 1]
+      ],
+      "output_items": [
+        ["core/crushed_zinc", 1]
+      ],
+      "formula": "ZnO + C → Fe + CO₂",
+      "color": "#8B0000",
+      "icon_item": "core/crushed_zinc",
+      "name": "Zinc oxide reduction"
+    },
+    {
+      "id": "silicon_extraction",
+      "input_liquids": [],
+      "input_items": [
+        ["core/sand", 1], ["core/coal", 2]
+      ],
+      "time": 200,
+      "output_liquids": [
+        ["core/carbon_monoxide", 2]
+      ],
+      "output_items": [
+        ["core/silicon", 1]
+      ],
+      "formula": "SiO₂ + 2C → Si + 2CO",
+      "color": "#979797",
+      "icon_item": "core/silicon",
+      "name": "Silicon Extraction"
+    },
+    {
+      "id": "sulfur_oxide_oxidation",
+      "input_liquids": [
+        ["core/sulfur_dioxide", 2],
+        ["core/oxygen", 1]
+      ],
+      "input_items": [],
+      "time": 300,
+      "output_liquids": [
+        ["core/sulfur_trioxide", 2]
+      ],
+      "output_items": [],
+      "formula": "2SO₂ + O₂ → 2SO₃",
+      "color": "#FFD700",
+      "icon_item": "core/sulfur_trioxide_bucket",
+      "name": "Sulfur dioxide oxidation"
+    },
+    {
+      "id": "sulfuric_acid_synthesis",
+      "input_liquids": [
+        ["core/sulfur_trioxide", 1],
+        ["core/water", 1]
+      ],
+      "input_items": [],
+      "time": 400,
+      "output_liquids": [
+        ["core/sulfuric_acid", 1]
+      ],
+      "output_items": [],
+      "formula": "SO₃ + H₂O → H₂SO₄",
+      "color": "#ADD8E6",
+      "icon_item": "core/sulfuric_acid_bucket",
+      "name": "Sulfuric acid synthesis"
+    }
+  ]
+}

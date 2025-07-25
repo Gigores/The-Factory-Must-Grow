@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "name": "First Flame",
+      "description": "Place your first Furnace to begin your journey in metalworking.",
+      "icon_item": "core/coal",
+      "request": ["place", "Furnace"],
+      "parent": 9,
+      "arrow_type": true,
+      "pos": [2, -4],
+      "size": [1, 1]
+    },
+    {
+      "name": "Iron Forged Future",
+      "description": "Unlock the strength of iron with your first iron toolkit.",
+      "icon_item": "core/iron_pickaxe",
+      "request": ["geta", ["core/iron_pickaxe", "core/iron_axe"]],
+      "parent": 9,
+      "arrow_type": false,
+      "pos": [2, 2.5],
+      "size": [1, 1]
+    },
+    {
+      "name": "The Smith's Rhythm",
+      "description": "Construct an Anvil and use it to make your first metal plate.",
+      "icon_item": "core/copper_plate",
+      "request": ["geto", ["core/iron_plate", "core/copper_plate", "core/brass_plate", "core/cast_iron_plate"]],
+      "parent": 0,
+      "arrow_type": false,
+      "pos": [5, -5.5],
+      "size": [1, 1]
+    },
+    {
+      "name": "Rubble Revolution",
+      "description": "Build a Crusher and turn solid deposits into the foundation of progress.",
+      "icon_item": "core/crusher",
+      "request": ["place", "Crusher"],
+      "parent": 2,
+      "arrow_type": true,
+      "pos": [1, -7],
+      "size": [1, 1]
+    },
+    {
+      "name": "Golden Alloy",
+      "description": "Smelt a Brass Ingot, the alloy that will reinforce your endeavors.",
+      "icon_item": "core/brass_ingot",
+      "request": ["get", "core/brass_ingot"],
+      "parent": 9,
+      "arrow_type": false,
+      "pos": [-3, 2],
+      "size": [1, 1]
+    },
+    {
+      "name": "Power at Hand",
+      "description": "Equip yourself with a Hand Drill or Chainsaw, tools that redefine efficiency.",
+      "icon_item": "core/hand_drill",
+      "request": ["geto", ["core/hand_drill", "core/chainsaw"]],
+      "parent": 1,
+      "arrow_type": true,
+      "pos": [5, 4.5],
+      "size": [1, 1]
+    },
+    {
+      "name": "Purifying Spin",
+      "description": "Assemble a Magnetic Cleaner to increase the yield from your ores.",
+      "icon_item": "core/crushed_rock",
+      "request": ["place", "MagneticCentrifuge"],
+      "parent": 3,
+      "arrow_type": false,
+      "pos": [-2, -5],
+      "size": [1, 1]
+    },
+    {
+      "name": "Cast Iron Conquest",
+      "description": "Create a Cast Iron Ingot, a symbol of industrial might.",
+      "icon_item": "core/cast_iron_ingot",
+      "request": ["get", "core/cast_iron_ingot"],
+      "parent": 4,
+      "arrow_type": true,
+      "pos": [-5, 4],
+      "size": [1, 1]
+    },
+    {
+      "name": "Peak Performance",
+      "description": "Upgrade to an Advanced Hand Drill or Advanced Chainsaw with Cast Iron.",
+      "icon_item": "core/hand_drill_2",
+      "request": ["geto", ["core/hand_drill_2", "core/chainsaw_2"]],
+      "parent": 5,
+      "arrow_type": false,
+      "pos": [7, 7],
+      "size": [1, 1]
+    },
+    {
+      "name": "Getting Started",
+      "description": "Place a Workbench",
+      "icon_item": "core/workbench",
+      "request": ["place", "Workbench"],
+      "parent": null,
+      "arrow_type": false,
+      "pos": [0, 0],
+      "size": [1.5, 1.5]
+    },
+    {
+      "name": "Crafting Prodigy",
+      "description": "Unlock the door to endless creativity with your first plank",
+      "icon_item": "core/woodworking_machine",
+      "request": ["get", "core/plank"],
+      "parent": 2,
+      "arrow_type": false,
+      "pos": [8, -3.5],
+      "size": [1, 1]
+    },
+    {
+      "name": "Timber Architect",
+      "description": "Lay the first log of your dream home. Your journey into cozy living starts with the warmth of wood.",
+      "icon_item": "core/wooden_wall",
+      "request": ["place", "WoodenWall"],
+      "parent": 10,
+      "arrow_type": true,
+      "pos": [11, -1.5],
+      "size": [1, 1]
+    },
+    {
+      "name": "Stonemason's Pride",
+      "description": "With the placement of your first stone wall, you lay the groundwork for indestructible dreams.",
+      "icon_item": "core/stone_wall",
+      "request": ["place", "StoneWall"],
+      "parent": 11,
+      "arrow_type": false,
+      "pos": [13, 1.5],
+      "size": [1, 1]
+    },
+    {
+      "name": "Interior Designer",
+      "description": "Each piece of furniture turns a house into a home, cozy and welcoming.",
+      "icon_item": "core/pot",
+      "request": ["placeo", ["Stool", "Table", "BedsideTable", "PotWithPlant", "Bed"]],
+      "parent": 10,
+      "arrow_type": false,
+      "pos": [11, -6],
+      "size": [1, 1]
+    }
+  ]
+}

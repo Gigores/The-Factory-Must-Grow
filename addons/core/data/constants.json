@@ -1,0 +1,7 @@
+{
+  "default_stack_size": 16,
+  "big_stack_size": 32,
+  "default_building_stack_size": 1,
+  "big_building_stack_size": 4,
+  "basic_tool_damage": 0.5
+}

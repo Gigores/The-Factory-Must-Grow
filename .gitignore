@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller build files
+*.spec
+build/
+dist/
+*.exe
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm project settings
+.idea/
+
+# VS Code (на всякий случай)
+.vscode/
+
+# Unit test / coverage (вы не используете, но на будущее)
+.pytest_cache/
+.coverage
+.tox/
+.nox/
+.cache/
+
+# IPython / Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor backups
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# garbage
+addons/test_addon
+saves
+screenshots
+aaa.png
+build.bat
+log.log
+save_log.txt
+zdfg.png

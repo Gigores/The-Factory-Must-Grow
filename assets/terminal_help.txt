@@ -1,0 +1,27 @@
+- set_player_speed <speed>:
+  Sets the player's speed.
+- teleport <x> <y>: Teleports the player.
+- set_health <health>:
+  Sets the player's health.
+- set_hunger <hunger>: Sets hunger level.
+- damage <amount>: Inflicts damage.
+- kill: Kills the player.
+- get_item <item_name> [amount]:
+  Adds an item to inventory.
+- save_as <file_name>:
+  Saves current game state.
+- spawn <entity_name> [x] [y]:
+  Spawns an entity.
+- use_collisions <true|false>:
+  Toggles collisions.
+- set_tile <tile_id> [x] [y]:
+  Sets tile.
+Error messages displayed
+for command execution 
+issues.
+You can also type "help tiles",
+"help entities" or
+"help items" to get more information.
+You can also write programs using this
+terminal. Type "help scripts" to get
+more information.

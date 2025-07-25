@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+        "id": "gdfsjniogadsf",
+        "ingredient": ["core/log", 1],
+        "result": ["core/plank", 2],
+        "time": 60
+    }
+  ]
+}

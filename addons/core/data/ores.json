@@ -1,0 +1,32 @@
+{
+    "coal": {
+        "item": "core/coal",
+        "tile": 14,
+        "hardness": 150
+    },
+    "copper": {
+        "item": "core/raw_copper",
+        "tile": 12,
+        "hardness": 200
+    },
+    "iron": {
+        "item": "core/raw_iron",
+        "tile": 11,
+        "hardness": 250
+    },
+    "stone": {
+        "item": "core/stone",
+        "tile": 15,
+        "hardness": 150
+    },
+    "zinc": {
+        "item": "core/raw_zinc",
+        "tile": 13,
+        "hardness": 200
+    },
+    "clay": {
+        "item": "core/clay",
+        "tile": 16,
+        "hardness": 150
+    }
+}
